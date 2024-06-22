@@ -7,12 +7,12 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone
-timezone: Asia/Shanghai
+timezone: 	America/Chicago
 
 # jekyll-seo-tag settings
-title: Chirpy # the main title
+title: Scott H.F. Dunbar # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: An Unreal Engine Game Developer
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -25,16 +25,16 @@ github:
   username: scott-hf # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: Scott_HF_Dunbar # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Scott HF
-  email: example@domain.com # change to your email address
+  email: # example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/Scott_HF_Dunbar # change to your twitter homepage
     - https://github.com/scott-hf # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -75,7 +75,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://avatars.githubusercontent.com/u/224776?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 social_preview_image: # string, local or CORS resources
@@ -87,7 +87,7 @@ comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   disqus:
-    shortname: # fill with the Disqus shortname.
+    shortname: scott-hf # fill with the Disqus shortname.
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
