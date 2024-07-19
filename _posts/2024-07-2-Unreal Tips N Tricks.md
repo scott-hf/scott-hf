@@ -70,13 +70,6 @@ his resources are a great place for any game dev to get started, not just unreal
 <https://develop.games/>
 
 
-### i hate marketing. it always feels sleezy. but. this guy...he makes it look cool! :) love chris AND his discord community
-
-<https://howtomarketagame.com/author/zukalous/>
-
-### derek lieu for making awesome game trailers
-
-<https://www.youtube.com/@DerekLieu>
 
 ### Other notable youtubers:
 
@@ -90,4 +83,4 @@ his resources are a great place for any game dev to get started, not just unreal
 
 <https://www.youtube.com/@Acerola_t/videos>
 
-
+<https://www.youtube.com/@RyanLaley/videos>
