@@ -1,5 +1,5 @@
 ---
-title: Visuals Aesthetics - Tips and Tricks
+title: Game Dev Resources
 description: Resources!
 date: 2024-07-19 11:33:00 +0800
 categories: [Tips, Tutorials]
