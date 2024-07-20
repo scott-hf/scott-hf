@@ -23,9 +23,9 @@ Hello! If you're looking for some resources as a new game developer/new to unrea
 
 <https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2>
 
-### pureref is a great tool for managing your screenshots and maintaining a visual theme while developing your game ( or any art medium really)
+### search for existing blueprints here. dont reinvent the wheel!
 
-<https://www.pureref.com/download.php>
+<https://blueprintue.com/>
 
 ### official forums have good tutorials from epic games. there are community tutorials as well. some are good. some are not. epic games tutorials usually very good
 

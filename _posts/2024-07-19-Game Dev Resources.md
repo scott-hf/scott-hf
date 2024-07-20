@@ -12,6 +12,14 @@ image:
 ---
 
 
+### festivals
+
+<https://docs.google.com/spreadsheets/d/1NGseGNHv6Tth5e_yuRWzeVczQkzqXXGF4k16IsvyiTE/edit?gid=0#gid=0>
+
+### pureref is a great tool for managing your screenshots and maintaining a visual theme while developing your game ( or any art medium really)
+
+<https://www.pureref.com/download.php>
+
 ### free sound effect resources
 
 <https://sonniss.com/gameaudiogdc>
@@ -36,6 +44,11 @@ image:
 ### lighting / key lighting / 3 point lighting
 
 <https://youtu.be/MDiysZ4eglc>
+
+### use this copy/pasta code/long text 
+
+<https://pastebin.com/>
+
 
 ### learn about shaders and how they work
 
