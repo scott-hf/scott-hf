@@ -1,7 +1,7 @@
 ---
 title: Game Marketing Tips
 description: Resources!
-date: 2024-07-19 11:33:00 +0800
+date: 2024-08-16 11:33:00 +0800
 categories: [Tips, Tutorials]
 tags: [Tutorials]
 pin: true
