@@ -12,7 +12,7 @@ timezone: 	America/Chicago
 # jekyll-seo-tag settings
 title: Scott H.F. Dunbar # the main title
 
-tagline: An Unreal Engine Game Developer
+tagline: Unreal Engine Game Dev
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
