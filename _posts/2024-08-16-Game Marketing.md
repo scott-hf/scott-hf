@@ -2,7 +2,7 @@
 title: Game Marketing Tips
 description: Resources!
 date: 2024-08-16 11:33:00 +0800
-categories: [Tips, Tutorials]
+categories: [Tips, Tutorials, Marketing]
 tags: [Tutorials]
 pin: true
 math: true

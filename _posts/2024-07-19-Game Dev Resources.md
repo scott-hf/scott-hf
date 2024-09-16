@@ -2,7 +2,7 @@
 title: Game Dev Resources
 description: Resources!
 date: 2024-07-19 11:33:00 +0800
-categories: [Tips, Tutorials]
+categories: [Tips, Tutorials, GameDev]
 tags: [Tutorials]
 pin: true
 math: true
