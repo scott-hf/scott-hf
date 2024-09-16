@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2360880/header.jpg?t=1719075848
+  path: https://i.ytimg.com/vi/D3487885Yxo/maxresdefault.jpg
 ---
 
 ### SFX -  Soniss.com Resources

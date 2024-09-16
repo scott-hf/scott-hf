@@ -2,13 +2,13 @@
 title: Unreal 5 Tips & Tricks
 description: Resources!
 date: 2024-07-02 11:33:00 +0800
-categories: [Tips, Tutorials]
+categories: [Tips, Tutorials, GameDev, Unreal]
 tags: [Tutorials]
 pin: true
 math: true
 mermaid: true
 image:
-  path: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2360880/header.jpg?t=1719075848
+  path: https://ue-cdn.artstation.com/imgproxy/4dFMMZW9ffkPQ-qSNOnDGYMK1R3v7uHbso2fV4j5VaU/filename:placeholder-social.png/resizing_type:fill/width:1200/height:630/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9kb2N1bWVudGF0aW9uL2ltYWdlcy9lZmUzNWJhMy0yMjJhLTRkMjctYjkzMi1lNGQ3MDJlYWJiYTUvcGxhY2Vob2xkZXItc29jaWFsLnBuZw
 ---
 
 ## New Game Dev / Unreal Engine 5 tips & tricks

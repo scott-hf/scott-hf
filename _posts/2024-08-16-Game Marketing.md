@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2360880/header.jpg?t=1719075848
+  path: https://howtomarketagame.com/wp-content/uploads/2020/01/aIMG_0154_small.jpg
 ---
 
 ### marketing tips
