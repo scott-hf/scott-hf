@@ -1,7 +1,7 @@
 ---
 title: Abaddons Veil
 description: Abaddons Veil Press Kit Inside
-date: 2024-10-31 11:33:00 +0800
+date: 2024-10-30 11:33:00 +0800
 categories: [Games, Release]
 tags: [Games]
 pin: true
