@@ -14,7 +14,7 @@ image:
 
 ### Abaddons Veil
 
-Happy to announce release of ICB!!! Good hunting agents!
+Happy to announce release of abaddon's veil!!! Good hunting!
 
 
 ### Press Kit
