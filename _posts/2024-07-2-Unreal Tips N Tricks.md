@@ -17,7 +17,7 @@ Hello! If you're looking for some resources as a new game developer/new to unrea
 
 ### free unreal assets (changes every month)
 
-<https://www.unrealengine.com/marketplace/en-US/assets?count=20&sortBy=effectiveDate&sortDir=DESC&start=0&tag=4910>
+<https://www.fab.com/blade/c949409a-866e-4e74-8d1b-208cd257e899?context=homepage>
 
 ### first hour of unreal engine development
 
